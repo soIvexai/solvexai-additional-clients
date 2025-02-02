@@ -1,0 +1,7 @@
+# Ignore temporary and dependency files
+__pycache__/
+node_modules/
+target/
+bin/
+obj/
+.DS_Store
