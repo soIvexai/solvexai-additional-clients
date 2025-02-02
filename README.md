@@ -17,15 +17,19 @@ This repository contains additional client libraries for interacting with the **
     <artifactId>solvexai-client</artifactId>
     <version>1.0.0</version>
 </dependency>
-
+```
 ### C# (.NET Core)
+``` powershell
 Install-Package SolvexAI
-
+```
 ### Swift (iOS)
+```swift
 pod 'SolvexAI'
-
+```
 ### PHP
+```bash
 composer require solvexai/client
-
-###License
+```
+### License
 This project is licensed under the MIT License.
+}
